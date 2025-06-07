@@ -47,7 +47,7 @@ function displayData(filter = "") {
           <td>
             <a href="${linksList[i].url}" target="_blank">
               <button class="btn btn-outline-primary" type="button">
-                <i class="fa-solid fa-eye px-2"></i>
+                <i class="fa-solid fa-eye fa-bounce px-2"></i>
               </button>
             </a>
           </td>
