@@ -17,9 +17,9 @@ body {
 }
 td {
   vertical-align: middle;
-  white-space: nowrap; 
-  overflow: hidden; 
-  text-overflow: ellipsis; 
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   max-width: 150px;
 }
 
@@ -60,7 +60,7 @@ h1::before {
 }
 .main-title {
   color: #444444;
-  font-size: clamp(18px, 2vw, 32px);
+  font-size: clamp(14px, 4vw, 32px);
   font-family: Righteous;
 }
 .data {
